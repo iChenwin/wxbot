@@ -26,3 +26,12 @@
 
 ![](http://ichenwin.qiniudn.com/wxbot.jpg)
 
+---------
+
+投喂
+---------
+微信：  
+![](http://ichenwin.qiniudn.com/wxpay_s.png)  
+
+支付宝：  
+![](http://ichenwin.qiniudn.com/alipay_s.png)
