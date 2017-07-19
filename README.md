@@ -13,20 +13,16 @@
 
 -------------
 
---------
-
-Features
---------
+功能
+-------------
 
 ![](http://ichenwin.qiniudn.com/tuling1.png)
 ![](http://ichenwin.qiniudn.com/tuling2.png)
 
---------------
-
---------
+---------
 
 (错误)示范
---------
+---------
 
 ![](http://ichenwin.qiniudn.com/wxbot.jpg)
--------------- 
+
